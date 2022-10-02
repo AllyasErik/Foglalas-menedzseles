@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hatva\\source\\repos\\HotelReservation\\HotelReservation\\HotelReservation.vbproj",
+      "projectUniqueName": "C:\\HotelProject\\HotelReservation\\HotelReservation\\HotelReservation.csproj",
       "projectName": "HotelReservation",
-      "projectPath": "C:\\Users\\Hatva\\source\\repos\\HotelReservation\\HotelReservation\\HotelReservation.vbproj",
+      "projectPath": "C:\\HotelProject\\HotelReservation\\HotelReservation\\HotelReservation.csproj",
       "packagesPath": "C:\\Users\\Hatva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hatva\\source\\repos\\HotelReservation\\HotelReservation\\obj\\",
+      "outputPath": "C:\\HotelProject\\HotelReservation\\HotelReservation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\MVSE\\Tools\\NuGetPackages"

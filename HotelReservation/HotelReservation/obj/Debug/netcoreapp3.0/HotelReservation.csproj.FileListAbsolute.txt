@@ -1,0 +1,9 @@
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.0\HotelReservation.csproj.AssemblyReference.cache
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.0\HotelReservation.Login.resources
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.0\HotelReservation.MainMenu.resources
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.0\HotelReservation.Properties.Resources.resources
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.0\HotelReservation.csproj.GenerateResource.cache
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.0\HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.0\HotelReservation.AssemblyInfoInputs.cache
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.0\HotelReservation.AssemblyInfo.cs
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.0\HotelReservation.csproj.CoreCompileInputs.cache
