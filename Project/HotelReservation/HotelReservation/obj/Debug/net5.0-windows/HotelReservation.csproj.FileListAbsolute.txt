@@ -1,0 +1,9 @@
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\net5.0-windows\HotelReservation.csproj.AssemblyReference.cache
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\net5.0-windows\HotelReservation.Login.resources
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\net5.0-windows\HotelReservation.MainMenu.resources
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\net5.0-windows\HotelReservation.Properties.Resources.resources
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\net5.0-windows\HotelReservation.csproj.GenerateResource.cache
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\net5.0-windows\HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\net5.0-windows\HotelReservation.AssemblyInfoInputs.cache
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\net5.0-windows\HotelReservation.AssemblyInfo.cs
+C:\HotelProject\HotelReservation\HotelReservation\obj\Debug\net5.0-windows\HotelReservation.csproj.CoreCompileInputs.cache
